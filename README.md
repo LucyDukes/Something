@@ -10,5 +10,6 @@ Test
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
-
+\begin{equation}
 \sum < 24> \cup \mathbb{P}
+\end{equation}
